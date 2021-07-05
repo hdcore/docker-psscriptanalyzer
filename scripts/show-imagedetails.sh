@@ -1,7 +1,7 @@
 #!/bin/sh
 
-# Author Danny
-# Version GIT: 2021-05-24 15:29
+# Author: Danny
+# Version GIT: 2021-07-05 21:10
 
 # set-imageversion.sh 
 # Save the docker image details

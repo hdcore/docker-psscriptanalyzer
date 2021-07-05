@@ -1,7 +1,7 @@
 #!/bin/sh
 
-# Author Danny
-# Version GIT: 2021-05-24 16:31
+# Author: Danny
+# Version GIT: 2021-07-05 21:10
 
 # docker-entrypoint.sh 
 # script who is launched at startup of the container
