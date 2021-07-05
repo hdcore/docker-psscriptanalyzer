@@ -47,6 +47,6 @@ jobs:
           file: ./${{ matrix.version }}/Dockerfile
           platforms: linux/amd64
           push: true
-          tags: hdcore/docker-php:${{ matrix.version }}
+          tags: hdcore/docker-psscriptanalyzer:${{ matrix.version }}
           cache-from: type=registry,ref=hdcore/docker-psscriptanalyzer:${{ matrix.version }}
           cache-to: type=inline
