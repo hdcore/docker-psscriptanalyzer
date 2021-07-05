@@ -1,0 +1,6 @@
+version: "3.7"
+services:
+  local-psscriptanalyzer1-run:
+    build:
+      context: .
+      dockerfile: 1/Dockerfile
